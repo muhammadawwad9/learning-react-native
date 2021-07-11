@@ -11,7 +11,7 @@
    I've always been interested in mobile development, so after I finished a solid web application <a href="https://awgram.netlify.app">Awgram</a> (a MERN stack app),
    I started to learn React Native by building a simple project with React Native Expo,I've tested the app on my device. 
    I learned and coded along with a tutorial online and I really enjoyed it!!!!! this is the best method for me to practice new things/technologies.
-   It was fun and I will continue learning and building amazing larger apps for mobile, and also to publish the top ones to the stores 😃😃😃😃
+   It was fun and I will continue learning and building amazing larger apps for mobile, and also to publish the top ones to the stores 😃🙏
   </p>
   
   
